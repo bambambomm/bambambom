@@ -1,1 +1,3 @@
-works/illustration/wave/00/README.md
+# Wave 00
+
+Where the wave begins.
