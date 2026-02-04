@@ -1,7 +1,10 @@
 # Works
 
-Visual works and personal explorations by **bambambom**.
+A collection of visual works by **bambambom**.
 
 ## Illustration
 ### Wave
-The wave of life, drawn in my own rhythm.
+A visual exploration of rhythm, flow, and life.
+
+- Wave 00
+- Wave 01
