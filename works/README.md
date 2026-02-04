@@ -1,7 +1,7 @@
 # Works
 
-Design works by bambambom.
+Visual works and personal explorations by **bambambom**.
 
-- Illustration
-- Graphic design
-- Personal practice
+## Illustration
+### Wave
+The wave of life, drawn in my own rhythm.
