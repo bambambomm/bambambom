@@ -1,7 +1,7 @@
 # bambambom
 The personal website of bambambom
 
-## Works
+## Works [Works](https://bambambomm.github.io/bambambom/works/)
 
 A collection of visual works by **bambambom**.
 
