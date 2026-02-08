@@ -1,32 +1,49 @@
-  <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
   <title>Illustration – bambambom</title>
+
   <style>
+    /* breadcrumb 전체 */
+    h1 {
+      margin-bottom: 12px;
+    }
+
+    /* 모든 링크 기본 스타일 */
     h1 a {
       color: inherit;
       text-decoration: none;
     }
+
+    /* works (이전 단계) */
+    .works {
+      font-size: 18px;
+      font-weight: 400;
+      opacity: 0.6;
+    }
+
+    /* illustration (현재 위치) */
+    .current {
+      font-size: 32px;
+      font-weight: 700;
+    }
   </style>
 </head>
 
-<h1>
-  <a href="/bambambom/works/">works</a> >
-  <a href="/bambambom/works/illustration/">illustration</a>
-</h1>
+<body>
+
+  <h1>
+    <a href="/bambambom/works/" class="works">works</a> >
+    <a href="/bambambom/works/illustration/" class="current">illustration</a>
+  </h1>
+
   <p>A collection of visual works by bambambom.</p>
+
   <ul>
     <li><a href="./wave00/">Wave 00</a></li>
     <li><a href="./wave01/">Wave 01</a></li>
   </ul>
 
 </body>
-
 </html>
-
-
-
-
-
-
